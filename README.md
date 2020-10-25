@@ -1,2 +1,2 @@
-# Leetcode-Contest-
+# Leetcode-Contest
 Leetcode Contest Solutions
